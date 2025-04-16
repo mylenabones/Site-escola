@@ -4,6 +4,7 @@
     justify-content: center; }
     .imagem-logo{width: 20%;}
     .sobre-serie{
-background-color: rgb(51, 14, 14);
-color: white;
+background-image: linear-gradient(#902929, #220606ef);
+color: rgb(16, 0, 0);
+padding: 24px 0;
     }
